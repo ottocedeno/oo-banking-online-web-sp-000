@@ -28,7 +28,6 @@ class BankAccount
   end
 end
 
-# otto = BankAccount.new("Otto")
-# charlotte = BankAccount.new("Charlotte")
-# loan = Transfer.new(otto, charlotte, 50)
-# binding.pry
+otto = BankAccount.new("Otto")
+charlotte = BankAccount.new("Charlotte")
+binding.pry
